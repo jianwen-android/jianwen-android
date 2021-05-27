@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-### You're staring at the Jian Wen's github account (Academic)
+## You're staring at the Jian Wen's github account (Academic)
 
-## Languages and Skills:
+## Languages and Skills
 
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/python.png"/> </a>
 <a href="https://swift.org" target="_blank"> <img align="left" alt="Swift" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/swift.png"/> <a>
@@ -10,7 +10,7 @@
 <br />
 <br />
 
-# Student of Singapore School of Science and Technology
+### Student of Singapore School of Science and Technology
 
 [![Jian Wen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianwen-android&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
