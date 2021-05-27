@@ -16,6 +16,9 @@
 
 Might change my github username soon...
 
+- [ ] Change that python logo lmfao
+- [ ] add electronics tools as well
+
 <!--
 **jianwen-android/jianwen-android** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
