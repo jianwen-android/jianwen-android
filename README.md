@@ -4,10 +4,9 @@
 
 ## Languages and Skills:
 
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://swift.org/" target="_blank"> <img align="left" alt="Swift" width "26px" src=
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/python.png"/> </a>
+<a href="https://swift.org" target="_blank"> <img align="left" alt="Swift" width "26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/swift.png"/> <a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/git.png"/> </a>
 <br />
 <br />
 
