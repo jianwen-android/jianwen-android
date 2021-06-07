@@ -1,12 +1,22 @@
 # Hi there 👋
 
-## You're staring at the Jian Wen's github account (Academic)
+## You're staring at Jian Wen's github account (School)
 
-## Languages and Skills
+I dont want to flaunt too much here
 
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/python.png"/> </a>
-<a href="https://swift.org" target="_blank"> <img align="left" alt="Swift" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/swift.png"/> <a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/git.png"/> </a>
+## pro langs
+
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/langs/python.png"/> </a>
+<a href="https://swift.org" target="_blank"> <img align="left" alt="Swift" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/langs/swift.png"/> <a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/langs/git.png"/> </a>
+<br />
+<br />
+
+## pro man
+
+<a href="https://www.multisim.com/" target="_blank"> <img align="left" alt="Multisim" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/pro/multisim.png"/> </a>
+<a href="https://www.kicad.org/" target="_blank"> <img align="left" alt="KiCad" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/pro/kicad.png"/> <a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/pro/git.png"/> </a>
 <br />
 <br />
 
@@ -16,7 +26,6 @@
 
 Might change my github username soon...
 
-- [ ] Change that python logo lmfao
 - [ ] add electronics tools as well
 
 <!--
