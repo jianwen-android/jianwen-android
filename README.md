@@ -12,7 +12,7 @@ I dont want to flaunt too much here...
 <br />
 <br />
 
-## pro man
+## pro skills
 
 <a href="https://www.multisim.com/" target="_blank"> <img align="left" alt="Multisim" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/pro/multisim.png"/> </a>
 <a href="https://www.kicad.org/" target="_blank"> <img align="left" alt="KiCad" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/pro/kicad.png"/> <a>
