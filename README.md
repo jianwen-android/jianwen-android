@@ -7,6 +7,7 @@ I dont want to flaunt too much here...
 # Projects
 
 ## Linux ricing
+
 Check out my [dotfiles](https://github.com/jianwen-android/dotfiles)!
 
 ## Skills
