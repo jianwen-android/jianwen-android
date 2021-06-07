@@ -11,6 +11,11 @@ I dont want to flaunt too much here...
 <br />
 <br />
 
+# Projects
+
+### Linux ricing
+Check out my [dotfiles](https://github.com/jianwen-android/dotfiles)!
+
 ## pro skills
 
 <a href="https://www.multisim.com/" target="_blank"> <img align="left" alt="Multisim" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/pro/multisim.png"/> </a>
