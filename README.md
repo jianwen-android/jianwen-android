@@ -10,7 +10,7 @@
 <br />
 <br />
 
-### Student of Singapore School of Science and Technology
+### Student @ Singapore School of Science and Technology
 
 [![Jian Wen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianwen-android&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
