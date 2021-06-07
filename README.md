@@ -2,7 +2,7 @@
 
 ## You're staring at Jian Wen's github account (School)
 
-I dont want to flaunt too much here
+I dont want to flaunt too much here...
 
 ## pro langs
 
