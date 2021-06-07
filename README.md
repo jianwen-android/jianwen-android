@@ -4,17 +4,19 @@
 
 I dont want to flaunt too much here...
 
+# Projects
+
+## Linux ricing
+Check out my [dotfiles](https://github.com/jianwen-android/dotfiles)!
+
+## Skills
+
 ## pro langs
 
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/langs/python.png"/> </a>
 <a href="https://swift.org" target="_blank"> <img align="left" alt="Swift" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/langs/swift.png"/> <a>
 <br />
 <br />
-
-# Projects
-
-### Linux ricing
-Check out my [dotfiles](https://github.com/jianwen-android/dotfiles)!
 
 ## pro skills
 
