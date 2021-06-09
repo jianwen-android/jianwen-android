@@ -27,7 +27,7 @@ Check out my [dotfiles](https://github.com/jianwen-android/dotfiles)!
 <br />
 <br />
 
-### Student @ Singapore School of Science and Technology
+### Student @ School of Science and Technology, Singapore
 
 [![Jian Wen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianwen-android&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
