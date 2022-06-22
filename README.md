@@ -1,13 +1,11 @@
 # Hi there 👋
 
-## Skills
-
-## Langs
+## Computing
 
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/langs/python.png"/> </a>
 <br />
 
-## Skills
+## Electronics
 
 <a href="https://www.multisim.com/" target="_blank"> <img align="left" alt="Multisim" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/pro/multisim.png"/> </a>
 <a href="https://www.kicad.org/" target="_blank"> <img align="left" alt="KiCad" width="26px" src="https://github.com/jianwen-android/jianwen-android/blob/main/src/logos/pro/kicad.png"/> <a>
