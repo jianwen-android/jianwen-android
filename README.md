@@ -1,11 +1,5 @@
 # Hi there 👋
 
-## Projects
-
-### Linux ricing
-
-Check out my [dotfiles](https://github.com/jianwen-android/dotfiles)!
-
 ## Skills
 
 ## Langs
