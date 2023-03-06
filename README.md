@@ -13,7 +13,7 @@
 <br />
 <br />
 
-### Student @ School of Science and Technology, Singapore
+### Student @ Anglo-Chinese Junior College (ex School of Science and Technology, Singapore)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jianwen-android&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Jian Wen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianwen-android&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
